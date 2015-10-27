@@ -1,0 +1,60 @@
+Classe: 1
+id: 3399
+koebnerPhenomenon < 3| 0.97
+clubbing >= 1| 0.94
+munroIcroabcess >= 0| 1.0
+spongiosis < 1| 0.8
+Fit:1.868113F1:0.9009F2:0.9672131
+Testando Fit: f1:1.0 f2:1.0
+Tempo Execucao:12.518
+
+
+Classe: 2
+id: 5861
+pnlInfiltrate >= 1| 0.95000005
+elongation < 1| 0.96
+Fit:1.5250344F1:0.6111F2:0.9139344
+Testando Fit: f1:0.74480003 f2:0.94262296
+Tempo Execucao:9.25
+
+
+Classe: 3
+id: 8110
+polygonalPapules >= 0| 0.89000005
+bandLike >= 2| 0.84
+Fit:1.9818033F1:0.99F2:0.9918033
+Testando Fit: f1:1.0 f2:1.0
+Tempo Execucao:8.41
+
+
+Classe: 4
+id: 10051
+scalpInvolvement = 0| 0.92999995
+hyperkeratosis != 3| 0.81
+parakeratosis < 2| 0.8
+disappearance < 2| 0.86
+vacuolisation < 1| 1.0
+follicular != 1| 0.82
+Fit:1.3756983F1:0.6216F2:0.75409836
+Testando Fit: f1:0.63920003 f2:0.71311474
+Tempo Execucao:10.494
+
+
+Classe: 5
+id: 13429
+familyHistory = 0| 0.89
+fibrosis >= 1| 1.0
+focalHypergranulosis < 3| 0.98
+bandLike < 2| 0.84000003
+Fit:2.0F1:1.0F2:1.0
+Testando Fit: f1:1.0 f2:1.0
+Tempo Execucao:9.924
+
+
+Classe: 6
+id: 16213
+hyperkeratosis != 3| 0.85
+parakeratosis >= 1| 0.95
+perifollicular != 0| 0.94
+Fit:2.0F1:1.0F2:1.0
+Testando Fit: f1:0.67 f2:0.9836066
